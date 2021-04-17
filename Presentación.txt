@@ -1,0 +1,7 @@
+Carlos Ríos		carlos.rios@educacionit.com
+
+Plataforma:	alumni.educacionit.com
+			user: email		pass: dni
+		
+github:	https://github.com/crios2020/paradigmaAbrilSabado
+
